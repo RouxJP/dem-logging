@@ -12,3 +12,12 @@
 14:26:26.082 [main] INFO  dev.console.App - Bonjour Slf4J !
 14:26:26.084 [main] INFO  dev.console.App - Implementation Logback
 14:26:26.084 [main] DEBUG dev.service.AppService - Traitement 1 : param = Trace
+15:07:37.421 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:07:37.424 [main] INFO  dev.console.App - Implementation Logback
+15:07:37.424 [main] DEBUG dev.service.AppService - Traitement 1 : param = Trace
+15:08:44.481 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:08:44.483 [main] INFO  dev.console.App - Implementation Logback
+15:08:44.484 [main] DEBUG dev.service.AppService - Traitement 1 : param = Trace
+15:09:20.512 [main] INFO  dev.console.App - Bonjour Slf4J !
+15:09:20.515 [main] INFO  dev.console.App - Implementation Logback
+15:09:20.515 [main] DEBUG dev.service.AppService - Traitement 1 : param = Trace
